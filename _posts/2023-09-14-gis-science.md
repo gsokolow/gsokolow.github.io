@@ -17,13 +17,13 @@ Now that I’m a senior and am having to think seriously about the types of jobs
 
 In these remarks, GIS is treated as an individual entity, almost a sentient one. However, ‘GIS’ can do nothing unless researchers use it. And I can’t imagine any researcher who could manage five such disparate data inquiries in a given week. In this regard, GIS is not as limitless as it may be made out to be. Yes, it can be applied to a wide range of subjects and harnessed for many different purposes, but someone ‘trained in GIS’ would be incapable of applying GIS in this manner without significant subject specific knowledge and a strong grasp of geographic theory. Having read this article, I feel validated in my own apprehensions about building a career around GIS, and re-energized by the prospect of grounding myself in the broad realm of geographic theory. 
 
-Sample GitHubImage: ![github logo](/assets/images/github-mark/github-mark-white.png)
+Sample GitHubImage: ![github logo](/assets/images/github-mark/github-mark.png)
 
 [Link to another post][1]
 
 [1]: https://github.com/
 
-Sample table:/
+Sample table:
 | table column 1 | table column 2 |
 | :-----------: | -------------- |
 | centered | not centered |
