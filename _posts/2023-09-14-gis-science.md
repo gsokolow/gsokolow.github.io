@@ -24,7 +24,9 @@ Sample GitHubImage: ![github logo](/assets/images/github-mark/github-mark.png)
 [1]: https://github.com/
 
 Sample table:
+
 | table column 1 | table column 2 |
 | :-----------: | -------------- |
 | centered | not centered |
 | more content | but not centered |
+
