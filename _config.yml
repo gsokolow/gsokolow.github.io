@@ -60,8 +60,8 @@ plugins:
 author:
   name   : "Grace Sokolow"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Middlebury College Geography Class of 2024/ 
-            she/her pronouns"
+  bio    : "Middlebury College Geography Class of 2024. 
+            <br> she/her pronouns"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
