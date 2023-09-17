@@ -25,6 +25,12 @@ By encouraging transparency in data and code, an open-science framework would ma
 Open-science also has the power to relieve some of the publishing pressure on researchers. 
 Open-science is all about making knowledge available to others, so in an open-science context, it doesn't make sense to lock up peer-reviewed studies behind corporate paywalls. 
 If academic publishing firms lose their monopoly on new research, universities and other instituions will undoubtably need to find new ways to evaluate researchers that don't force them into rutheless competition with their peers (Ainsworth, 2019).
+While open-source practices would make it easier for reseachers to reproduce the findings of their peers, refine existing knowledge through replication, and reduce the toxic publishing pressure for academics, it cannot solve the reproducibility crisis on its own.
+
+Even though open-source science would take power away from publishing firms, their absence does not mean that academia will cease to value shocking new discoveries over more humble, step-wise gains.
+Nor does it mean that exclusivity in the field won't find a new way to manifest.
+In order for the benefits of open-science to be truly felt, groundbreakingPublishing pressure is a perfect example of where open-source GIS could help amelliorate the situation, but not solve it altogether.
+In order for 
 
 
 
