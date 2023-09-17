@@ -18,12 +18,15 @@ Furthermore, when researchers conduct their studies using the principles of open
 It's important for researchers attempting to replicate a study to have access to the original data and source code so that they can focus on improving or adopting the study, rather than reconstructing it.
 Even beyond making replication studies more efficient, open-source science makes it possible for researchers to learn from eachother's tools, strategies, and disciplines to ask new questions, or perhaps address old ones in new ways. 
 
-In addition to making research more rigorous, open-source GIS has the potential to contribute to positive cultural change in the research community. Part of the crisis of reproducibility within geography stemms from the immense publishing pressure imposed on researchers by their academic institutions. 
+In addition to making research more rigorous, open-source GIS has the potential to contribute to positive cultural change in the research community. Part of the crisis of reproducibility within geography stems from the immense publishing pressure imposed on researchers by their academic institutions. 
 Their career advancement is not determined by the quality of their work, nor the depth of their contributions to the scientific community, but by the number of papers they publish and the flashy conclusions they draw. 
 This creates an incentive for some researchers to falsify or contourt their conclusions to improve their chance of publication (Ainsworth, 2019). 
+By encouraging transparency in data and code, an open-science framework would make it very difficult to publish fake or altered results.
+
+that encourages collaboration would  through an open-science framework, Open-source GIS
 
 
-Open source GIS thus has much to offer the geography research community in generating a body of knowledge that is publicly accessible, rigorously developed, and growing efficiently as well as an environment in which collaboration 
+Open source-GIS thus has much to offer the geography research community in generating a body of knowledge that is publicly accessible, rigorously developed, and growing efficiently as well as an environment in which collaboration 
 
 
 
