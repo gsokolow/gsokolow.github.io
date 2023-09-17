@@ -32,6 +32,6 @@ Just because open-source GIS can't fix the reproducibility crisis alone, it does
 Based on the following readings:
 
 + NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: 10.17226/25303
-+     Chapter 3, Understanding reproducibility and replicability (pages 31-43 )
+  + Chapter 3, Understanding reproducibility and replicability (pages 31-43)
 + Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. http://dx.doi.org/10.1007/s10109-009-0086-8
 + Dr. Rachel Ainsworth discusses open science culture in 2019: https://youtu.be/c-bemNZ-IqA
