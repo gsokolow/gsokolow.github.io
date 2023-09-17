@@ -5,3 +5,4 @@
        build on the work of their peers.
      * reduces the toxic pressure to publish (?)
 **Are there problems with reproducibility and replicability in geography that open source GIS cannot help solve?**
+2. Documentation. One criticism of open source communities is that they lack strong documentation. Documentation is critical to reproducibility and replicability because one needs to know exactly what they are doing in order to reproduce or modify a study
