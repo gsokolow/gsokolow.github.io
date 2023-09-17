@@ -14,7 +14,12 @@ Open source software *development* ensures that researchers can use the same sof
 This makes conducting reproduction studies, where the exact data and methods used by the original study are used in the new study, easier and more accessible.
 Reproduction studies also benefit from the *use* of open source GIS in source studies. The principles of open source science dictate that the exact data and code used in a study be publicly available. 
 Thus, when researchers *do* open science in addition to *using* open source software, they make sure that the inputs used in their studies, and not just the tools they used, are available to the public for verification and reproduction.
-Furthermore, when researchers conduct their studies using the principles of open science, they pave the way for future researchers to corroborate, challenge, and refine their conclusions through replication studies, in which the question of the original story is asked in a new context or altered slightly in the original context in an effort to test the generalizability of the original findings. 
+Furthermore, when researchers conduct their studies using the principles of open science, they pave the way for future researchers to corroborate, challenge, and refine their conclusions through replication studies, in which the question of the original story is asked in a new context or altered slightly in the original context. 
+It's important for researchers attempting to replicate a study to have access to the original data and source code so that they can focus on improving or adopting the study, rather than reconstructing it.
+Even beyond making replication studies more efficient, open-source science makes it possible for researchers to learn from eachother's tools, strategies, and disciplines to ask new questions, or perhaps address old ones in new ways. 
+
+Open source GIS thus has much to offer the geography research community in generating a body of knowledge that is publicly accessible, rigorously developed, and growing efficiently as well as an environment in which collaboration 
+
 
 
 
