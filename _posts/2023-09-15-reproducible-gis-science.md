@@ -1,14 +1,3 @@
-**To what extent does open source GIS help solve the problems of the reproducibility crisis for geography? How?**
-1. ensures data is available for reproducibility, which both
-     * reduces the prevalence of false results (bc people would find them)
-     * improves the efficiency of science, reducing needless replication work and making it easier for researchers to
-       build on the work of their peers.
-     * reduces the toxic pressure to publish (?)
-       
-**Are there problems with reproducibility and replicability in geography that open source GIS cannot help solve?**
-2. Documentation. One criticism of open source communities is that they lack strong documentation. Documentation is critical to reproducibility and replicability because one needs to know exactly what they are doing in order to reproduce or modify a study
-
-
 The development of GIS software in an open source environment and the practice of using GIS to conduct open source science both have the potential to address the reproducibility crisis in geography.
 Open source software *development* ensures that researchers can use the same software used in a particular study without having to pay for proprietary software or be in a certain physical location to use it. (J. S. Rey, 2009). 
 This makes conducting reproduction studies, where the exact data and methods used by the original study are used in the new study, easier and more accessible.
@@ -29,20 +18,9 @@ While open-source practices would make it easier for reseachers to reproduce the
 
 Even though open-source science would take power away from publishing firms, their absence does not mean that academia will cease to value shocking new discoveries over more humble, step-wise gains.
 Nor does it mean that exclusivity in the field won't find a new way to manifest.
-In order for the benefits of open-science to be truly felt, groundbreakingPublishing pressure is a perfect example of where open-source GIS could help amelliorate the situation, but not solve it altogether.
-In order for 
+In order for the benefits of open-science to reach their full potential, the scientific community will need to reassess its priorities and how they are expressed, think critically about barriers to accessing science and becoming a scientist, and reshape its relationship to the commercial market. 
+Other areas in which open-source GIS falls short include updates and documentation. 
+The decentralized, volunteer based development of open-source software means that it is constantly evolving and not always well documented along the way. 
+This can hinder efforts to reproduce and replicate existing research because the exact version of the software used in the original study may no longer be available, and the differences between versions hard to discern. 
 
-
-
-Open source-GIS thus has much to offer the geography research community in generating a body of knowledge that is publicly accessible, rigorously developed, and growing efficiently as well as an environment in which collaboration 
-
-
-
-
-
-
-
-
-
-
-
+Just because open-source GIS can't fix the reproducibility crisis alone, it doesn't mean it's not worth adopting. After all, open-science is based on the idea that the best, most innovative solutions are those that build off the work of others. Open-source GIS itself can thus be a piece of the conversation about the crisis of reproducibility. Maybe someone will come along and add to it.
