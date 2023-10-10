@@ -23,5 +23,10 @@ then the current configuration suggests that the risk of uncertainty grows at th
 but shrinks at the final stage of analysis.
 A radial model, in which total uncertainty grows as a function of progression through the analysis, might be able to make this figure even better.
 
-In another course I took at Middlebury (Remote Sensing & Land Use with Niwaeli Kimambo
+In another course I took at Middlebury (Remote Sensing & Land Use with Niwaeli Kimambo, Fall 2022), 
+we used machine learning to classify land use types from satellite imagery of Madagascar. 
+We started by defining our land cover classes, which is where we encountered conceptual uncertainty.
+None of the students had visited our study site, so we were at a loss when it came to defining the different land cover classes in ways that would be functional and meaningful.
+
+by creating training points, which we gave to our model to tell it the characteristics associated with each land use class.
 .. but fails to adequately show how it can magnify?
