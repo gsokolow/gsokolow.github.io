@@ -1,4 +1,5 @@
-I am particularly interested in your interpretation and reaction to figure 6.1 in Longley et al (2008) with regards to the three questions/prompts below:
+I am particularly interested in your interpretation and reaction to figure 6.1 in Longley et al (2008) 
+with regards to the three questions/prompts below:
 
 Do you have first-hand knowledge or experience with uncertainty in spatial/geographic research?
 What responsibilities do geographers have with regards to uncertainty in research?
@@ -7,8 +8,20 @@ What strategies might geographers use to fulfill those responsibilities?
 As children, we may be taught that maps tell truths. As geographers, we are taught that maps lie.
 Just like any other model, maps simplify the world around us so that we may better understand it.
 Any choice we make to simplify necessarily creates the opportunity for bias and uncertainty.
-In Chapter 6 of **Geographic information systems and science** (Langley et al, 2008), the following figure is presented as a 'conceptual view of uncertainty.
-The three filters, U1, U2, and U3 can distort the way in which the complexity of the real world is conceived, measured, represented, and analyzed in a cumulative way.'
+In Chapter 6 of **Geographic information systems and science** (Langley et al, 2008), 
+the following figure is presented as a 'conceptual view of uncertainty.
+The three filters, U1, U2, and U3 can distort the way in which the complexity of the real world is conceived, 
+measured, represented, and analyzed in a cumulative way.'
 ![Conceptual Model of Uncertainty](file:///Users/gracesokolow/Desktop/Open%20Source/Screenshot%202023-10-09%20at%208.14.31%20PM.png "Longley et. al, 2008. Figure 1")
 
-This figure represents how uncertainty can manifest at every stage of abstraction/analysis... but fails to adequately show how it can magnify?
+This figure represents how uncertainty can manifest at every stage of abstraction and analysis.
+It begins to describe the ways in which these errors propogate through the course of an analysis,
+influencing all subsequent decisions and calculations in it.
+However, it could do a better job visually representing the potential for errors to magnify, or at least, to interact. 
+If the size of the purple wave ast any stage is related to the magnitude of uncertainty at that stage in the analysis,
+then the current configuration suggests that the risk of uncertainty grows at the stages of conception and measurement, 
+but shrinks at the final stage of analysis.
+A radial model, in which total uncertainty grows as a function of progression through the analysis, might be able to make this figure even better.
+
+In another course I took at Middlebury (Remote Sensing & Land Use with Niwaeli Kimambo
+.. but fails to adequately show how it can magnify?
