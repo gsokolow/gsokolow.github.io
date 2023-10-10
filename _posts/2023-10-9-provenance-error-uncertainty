@@ -1,10 +1,3 @@
-I am particularly interested in your interpretation and reaction to figure 6.1 in Longley et al (2008) 
-with regards to the three questions/prompts below:
-
-Do you have first-hand knowledge or experience with uncertainty in spatial/geographic research?
-What responsibilities do geographers have with regards to uncertainty in research?
-What strategies might geographers use to fulfill those responsibilities?
-
 As children, we may be taught that maps tell truths. As geographers, we are taught that maps lie.
 Just like any other model, maps simplify the world around us so that we may better understand it.
 Any choice we make to simplify necessarily creates the opportunity for bias and uncertainty.
@@ -50,9 +43,15 @@ A simulation is able to repeat an analysis many many times, randomly altering ce
 of a researcher's decision making or the instability of a given set of variables. 
 The aggregate results of this simulation reveal trends within the data that can help determine the uncertainty associated with the original findings.
 
-In addition to **testing**
-Beyond conceptual uncertainty, there are many tools to address uncertainty in 
+In addition to **testing** for uncertainty, it is important also to communicate it - numerically, verbally, and cartographically, when applicable.
+One way to do this is to create a bivariate mapping scheme, in which hue is used to represent the findings themselves, 
+and fuzziness is used to represent the uncertainty associated with a given measure (Tate, 2013). 
+If uncertainty is *not* communicated, studies may mislead readers into believing that an association or trend is stronger, more explanative, or more certain than it really is.
+This could lead to misconceptions about the world around us, and the misallocation of energy and funds towards addressing and better understanding the study phenomenon.
 
 
-by creating training points, which we gave to our model to tell it the characteristics associated with each land use class.
-.. but fails to adequately show how it can magnify?
+References:
+Longley, P. A., M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. Geographical information systems and science 2nd ed. Chichester: Wiley.
+Chapter 6: Uncertainty, (pages 127-153)
+
+Tate, E. 2013. Uncertainty Analysis for a Social Vulnerability Index. Annals of the Association of American Geographers 103 (3):526–543. DOI:10.1080/00045608.2012.700616.
