@@ -40,6 +40,19 @@ and was thus influenced by the very uncertainty we were using them to understand
 This internal dependency feels a little like using a word you are trying to define in it's definition. 
 It doesn't give a very full picture.
 
+This is not to say that our error analysis wasn't worth doing. 
+if nothing else, attempting to describe and quantify error makes us more aware of its presence in our work.
+Conceptual uncertainty is a major challenge to address because it can be difficult to quantify, 
+but clearly stating the thought process used to conceive of the study and its components goes a long way towards
+making it possible for others to understand and critique the conceptual foundation of a given study.
+Some conceptual and indeed measurement or representational uncertainties may be explored through simulated repetition (ie Monte Carlo simulation).
+A simulation is able to repeat an analysis many many times, randomly altering certain parameters in an effort to replicate the subjectivity
+of a researcher's decision making or the instability of a given set of variables. 
+The aggregate results of this simulation reveal trends within the data that can help determine the uncertainty associated with the original findings.
+
+In addition to **testing**
+Beyond conceptual uncertainty, there are many tools to address uncertainty in 
+
 
 by creating training points, which we gave to our model to tell it the characteristics associated with each land use class.
 .. but fails to adequately show how it can magnify?
